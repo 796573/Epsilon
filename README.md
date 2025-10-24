@@ -6,4 +6,3 @@ Current Version: 1.0.2
 Site Link: https://sites.google.com/view/epsil0n/
 
 Discord Server: https://discord.gg/WBmhbkw6aV
-
